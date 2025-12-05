@@ -24,7 +24,7 @@
 
     /* Font Stacks */
     /* add the two font stacks here */
-	.seymour-one-regular {
+	.seymour-one {
 		font-family: "Seymour One", sans-serif;
 		font-weight: 400;
 		font-style: normal;
@@ -41,7 +41,6 @@
 		font-weight: 700;
 		font-style: normal;
 	}
-
 }
 
 body{
